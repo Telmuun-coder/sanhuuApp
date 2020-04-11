@@ -1,7 +1,3 @@
-/**********************************************
-*** Ерөнхий дүрмүүд
-**********************************************/
-
 * {
   margin: 0;
   padding: 0;
@@ -33,14 +29,10 @@ body {
   border: 1px solid #ff5049 !important;
 }
 
-/**********************************************
-*** Вэбийн толгой хэсэг
-**********************************************/
-
 .top {
   height: 40vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),
-    url(back.png);
+    url(appCover.jpg);
   background-size: cover;
   background-position: center;
   position: relative;
